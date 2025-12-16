@@ -1,0 +1,18 @@
+[
+  {
+    "id": "Android Device ID",
+    "name": "NAMA",
+    "username": "user",
+    "password": "1234",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "Android Device ID",
+    "name": "NAMA",
+    "username": "user",
+    "password": "1234",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+]
