@@ -15,4 +15,12 @@
     "expiresAt": "2025-12-31",
     "allowOffline": true
   },
+  {
+    "id": "948197fa69ad62f9",
+    "name": "REDMI NOT 8",
+    "username": "user",
+    "password": "1234",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
 ]
