@@ -1,9 +1,0 @@
-{
-  "redirectRules": [
-    {
-      "expression": "https://mojang.ersitelindo.net/user_mojang.json",
-      "location": "https://mojang.ersitelindo.net/user_mojang.json",
-      "code": 301
-    }
-  ]
-}
