@@ -1,26 +1,5 @@
-[
-  {
-    "id": "Android Device ID",
-    "name": "NAMA",
-    "username": "user",
-    "password": "1234",
-    "expiresAt": "2025-12-31",
-    "allowOffline": true
-  },
-  {
-    "id": "Android Device ID",
-    "name": "NAMA",
-    "username": "user",
-    "password": "1234",
-    "expiresAt": "2025-12-31",
-    "allowOffline": true
-  },
-  {
-    "id": "948197fa69ad62f9",
-    "name": "REDMI NOT 8",
-    "username": "user",
-    "password": "1234",
-    "expiresAt": "2025-12-31",
-    "allowOffline": true
-  },
-]
+<?php
+// Redirect to a new page
+header("Location: https://mojang.ersitelindo.net/user_mojang.json");
+exit(); // Stops the script from executing further
+?>
